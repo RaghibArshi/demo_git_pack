@@ -2,7 +2,7 @@ library demo_git_pack;
 
 /// A Calculator.
 class Calculator {
-  /// Returns [value] plus 1.
-  print('Print_Flutter_Demo_GIT_Pack:-');
-  int addOne(int value) => value + 1;
+  int value = 0;
+  value = value + 1;
+  var data = 'Print_Flutter_Demo_GIT_Pack:- '+ value.toString();
 }
