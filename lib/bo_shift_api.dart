@@ -1,6 +1,6 @@
 part of swagger.api;
 
-
+library demo_git_pack;
 
 class BOShiftApi {
   final ApiClient apiClient;
